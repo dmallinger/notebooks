@@ -1,6 +1,6 @@
 ## PROJECT SPECIFIC IGNORES HERE
 /settings.py
-
+/data/
 
 ## GENERAL IGNORES BELOW THIS LINE
 
